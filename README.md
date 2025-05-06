@@ -73,6 +73,6 @@ This project simulates a real business case for a car brand in Finland. It demon
 - Visualization & insights communication
 
 ## 🧠 Author
-**[Your Name]**  
-GitHub: [github.com/your-username](https://github.com/your-username)  
-Email: youremail@example.com
+**[Khoa Nguyen Quy]**  
+GitHub: https://github.com/khoanguyen2411 
+Email: khoanguyenquy2411@gmail.com
