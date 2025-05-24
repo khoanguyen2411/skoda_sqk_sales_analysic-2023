@@ -40,7 +40,7 @@ skoda_sqk_sales_analysic-2023/
 - Revenue peaked in Q3, with significant growth in Helsinki region.
 - 20% of customers contributed to over 70% of total revenue (Pareto Rule).
 - Churn rate increased in the last quarter of 2023.
-- Forecast showed stable growth trend for early 2024.
+- Forecast showed a stable growth trend for early 2024.
 
 ## 📈 Advanced Analytics Included
 - 🔁 **RFM Analysis**: Prioritized customer segments by behavior.
@@ -61,11 +61,11 @@ skoda_sqk_sales_analysic-2023/
 
 ## 📌 How to Use
 1. Run SQL scripts in order (core_queries → advanced_analytics).
-2. Open Power BI file to interact with the dashboard.
-3. Modify or expand data model if you'd like to test more filters.
+2. Open the Power BI file to interact with the dashboard.
+3. Modify or expand the data model if you'd like to test more filters.
 
 ## 💼 Why This Project?
-This project simulates a real business case for a car brand in Finland. It demonstrates core skills required for a Data Analyst:
+This project was developed during my tenure at Škoda, a leading European automotive brand. The data has been carefully altered from the original to ensure compliance with company policies and confidentiality agreements. Nonetheless, the project effectively demonstrates core competencies in Data Analysis.
 - Database querying
 - Business understanding
 - KPI tracking
